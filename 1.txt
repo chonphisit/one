@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
+=======
+gtgtgtgtgt
+>>>>>>> b1
 
 bb
