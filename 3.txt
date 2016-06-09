@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+sadd
+=======
+
+dsfjjfdopf
+kfokkfkkf
+>>>>>>> b1
